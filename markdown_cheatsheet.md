@@ -94,6 +94,7 @@ This me and please follow me on fb.
 > ## Way of comment
 > <!---Ghulam Rasool--->
 
+# Ghulam Rasool
 
 # Adding Code or Code Block
 To print a string use `print("Ghulam Rasool")`
@@ -142,6 +143,5 @@ print(z)
 [9. Coding](#adding-code-or-code-block)
 
 [10. Tables](#adding-tables)
-
-
+[11. Owner](#Ghulam-Rasool)
 
